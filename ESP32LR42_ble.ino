@@ -22,7 +22,7 @@
 #define CHARACTERISTIC_NI         "24ca2348-e112-4f7c-b31a-253a21b5a0c2"  // Characteristic for the number of inputs
 #define CHARACTERISTIC_GI         "8ff314b7-36f5-4ccf-a142-0c36a6da78c8"  // Characteristic holding input states
 
-#define MODULE_NAME               "ESP32SR88"
+#define MODULE_NAME               "ESP32SR42"
 #define MODULE_ID                 "40"
 #define MODULE_V                  "1"
 
